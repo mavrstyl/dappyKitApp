@@ -1,0 +1,185 @@
+{
+	"shortDescription": "Test your knowledge of Greek mythology!",
+	"questions": [
+		{
+			"question": "Who is the king of the gods?",
+			"answers": [
+				"Zeus",
+				"Hades",
+				"Apollo"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the goddess of wisdom?",
+			"answers": [
+				"Athena",
+				"Hera",
+				"Artemis"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What is Hermes' role?",
+			"answers": [
+				"Messenger",
+				"Warrior",
+				"Hunter"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the god of war?",
+			"answers": [
+				"Ares",
+				"Hades",
+				"Zeus"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the goddess of love?",
+			"answers": [
+				"Aphrod.",
+				"Hera",
+				"Artemis"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the hero of the Odyssey?",
+			"answers": [
+				"Odysseus",
+				"Hercules",
+				"Achilles"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the titan of time?",
+			"answers": [
+				"Cronus",
+				"Atlas",
+				"Prometheus"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What is the river of the dead?",
+			"answers": [
+				"Styx",
+				"Nile",
+				"Tiber"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is Zeus' wife?",
+			"answers": [
+				"Hera",
+				"Athena",
+				"Aphrod."
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the god of the sea?",
+			"answers": [
+				"Poseidon",
+				"Zeus",
+				"Hades"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the sun god?",
+			"answers": [
+				"Apollo",
+				"Hermes",
+				"Ares"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was turned into a spider?",
+			"answers": [
+				"Arachne",
+				"Medusa",
+				"Eurydice"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What is the home of the gods?",
+			"answers": [
+				"Olympus",
+				"Asgard",
+				"Elysium"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the moon goddess?",
+			"answers": [
+				"Artemis",
+				"Hera",
+				"Athena"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the wife of Hades?",
+			"answers": [
+				"Perseph.",
+				"Demeter",
+				"Hera"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the god of wine?",
+			"answers": [
+				"Dionysus",
+				"Ares",
+				"Hermes"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who slayed Medusa?",
+			"answers": [
+				"Perseus",
+				"Hercules",
+				"Odysseus"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the god of the underworld?",
+			"answers": [
+				"Hades",
+				"Zeus",
+				"Ares"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the blacksmith god?",
+			"answers": [
+				"Heph.",
+				"Hermes",
+				"Apollo"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the hero of the Iliad?",
+			"answers": [
+				"Achilles",
+				"Odysseus",
+				"Hercules"
+			],
+			"correctAnswerIndex": 0
+		}
+	]
+}
