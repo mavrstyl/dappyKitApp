@@ -105,7 +105,7 @@ app.frame('/result', async c => {
 
   if (!isWin) {
     // if user authorized navigate to answers, if not direct to authorize
-    intents.push(<Button action={userDelegatedAddress ? '/answers' }>🙋 Answers</Button>)
+    intents.push(<Button action={userDelegatedAddress ? '/answers' : '/authorize'}>🙋 Answers</Button>)
   }
 
   intents.push(<Button.Link href="https://hack.dappykit.org/?source=quiz-template">🔴 Win Tokens</Button.Link>)
