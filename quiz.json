@@ -74,33 +74,6 @@
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Who is Zeus' wife?",
-			"answers": [
-				"Hera",
-				"Athena",
-				"Aphrod."
-			],
-			"correctAnswerIndex": 0
-		},
-		{
-			"question": "Who is the god of the sea?",
-			"answers": [
-				"Poseidon",
-				"Zeus",
-				"Hades"
-			],
-			"correctAnswerIndex": 0
-		},
-		{
-			"question": "Who is the sun god?",
-			"answers": [
-				"Apollo",
-				"Hermes",
-				"Ares"
-			],
-			"correctAnswerIndex": 0
-		},
-		{
 			"question": "Who was turned into a spider?",
 			"answers": [
 				"Arachne",
@@ -164,20 +137,47 @@
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Who is the blacksmith god?",
+			"question": "Who is the goddess of the hunt?",
 			"answers": [
-				"Heph.",
-				"Hermes",
-				"Apollo"
+				"Artemis",
+				"Athena",
+				"Hera"
 			],
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Who is the hero of the Iliad?",
+			"question": "What is the name of Zeus' shield?",
 			"answers": [
-				"Achilles",
-				"Odysseus",
-				"Hercules"
+				"Aegis",
+				"Caduceus",
+				"Nemea"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the goddess of victory?",
+			"answers": [
+				"Nike",
+				"Hera",
+				"Athena"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the god of sleep?",
+			"answers": [
+				"Hypnos",
+				"Thanatos",
+				"Morpheus"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who is the goddess of discord?",
+			"answers": [
+				"Eris",
+				"Hera",
+				"Nyx"
 			],
 			"correctAnswerIndex": 0
 		}
