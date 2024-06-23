@@ -103,12 +103,9 @@ app.frame('/result', async c => {
   const userDelegatedAddress = await kvGetDelegatedAddress(userMainAddress)
   const intents = [<Button action="/">🔁 Again</Button>]
 
-  if (!isWin) {
-    // if user authorized navigate to answers, if not direct to authorize
-    intents.push(<Button action={userDelegatedAddress ? '/answers' : '/authorize'}>🙋 Answers</Button>)
-  }
 
-  intents.push(<Button.Link href="https://hack.dappykit.org/?source=quiz-template">🔴 Win Tokens</Button.Link>)
+
+  intents.push(<Button.Link href="https://warpcast.com/stelios">❤️ Support me!</Button.Link>)
 
   return c.res({
     title: appTitle,
