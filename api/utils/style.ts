@@ -3,7 +3,7 @@ import { createSystem } from 'frog/ui'
 export const cardStyle = {
   display: 'flex',
   alignItems: 'center',
-  background: 'linear-gradient(to right, #432889, #17101F)',
+  background: 'linear-gradient(to right, #0ba360, #3cba92)',
   backgroundSize: '100% 100%',
   flexDirection: 'column',
   flexWrap: 'nowrap',
@@ -19,9 +19,9 @@ export const textStyle = {
   fontSize: 50,
   fontStyle: 'normal',
   letterSpacing: '-0.025em',
-  lineHeight: 1.4,
+  lineHeight: 1.3,
   marginTop: 30,
-  padding: '0 120px',
+  padding: '0 100px',
   whiteSpace: 'pre-wrap',
 }
 
